@@ -1,0 +1,1 @@
+i used a .gitignore to clear the git parts so it wld be cleaner. Idk if that fked anyth
