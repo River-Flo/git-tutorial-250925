@@ -1,1 +1,5 @@
 i used a .gitignore to clear the git parts so it wld be cleaner. Idk if that fked anyth
+
+BUT THE git ignore disappeared??? idk 
+Version 2
+Version 3
